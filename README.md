@@ -1,7 +1,7 @@
 # Blog
-私は、株式会社SiNCEのインターン生として、技術ブログ「Data Driven Knowledgebase」に主にデータサイエンスに関する記事を複数執筆し投稿しています。
+私は、株式会社SiNCEのインターン生として、技術ブログ「Data Driven Knowledgebase」に主にデータエンジニアリングやデータサイエンスに関する記事を複数執筆し投稿しています。
 
-
+[SQLクエリ最適化入門] https://blog.since2020.jp/data_analysis/query_optimization/
 
 [主成分分析によるアソシエーションルールのスコアリング] https://blog.since2020.jp/data_analysis/pca_basket/
 
