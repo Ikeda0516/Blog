@@ -1,5 +1,5 @@
 # Blog
-私は、株式会社SiNCEのインターン生として、技術ブログ「Data Driven Knowledgebase」に主にデータエンジニアリングやデータサイエンスに関する記事を複数執筆し投稿しています。
+私は、株式会社SiNCEのインターン生として、技術ブログ「Data Driven Knowledgebase」に主にデータエンジニアリングやデータサイエンスに関する記事を複数執筆し投稿してきました。
 
 [BigQuery MLで作るUplift Modeling] https://blog.since2020.jp/data_analysis/bigquery-ml-uplift-modeling/
 
