@@ -3,9 +3,9 @@
 
 [BigQuery MLで作るUplift Modeling] https://blog.since2020.jp/data_analysis/bigquery-ml-uplift-modeling/
 
-[SQLクエリ最適化入門] https://blog.since2020.jp/data_analysis/query_optimization/
+[DMBOK準拠のBigQueryにおけるOBT設計] https://since2020.jp/media/bigquery-obt-design-dmbok/
 
-[主成分分析によるアソシエーションルールのスコアリング] https://blog.since2020.jp/data_analysis/pca_basket/
+[SQLクエリ最適化入門] https://blog.since2020.jp/data_analysis/query_optimization/
 
 [ノンパラメトリック法を学ぼう！] https://blog.since2020.jp/data_analysis/non-parametric/
 
@@ -16,7 +16,5 @@
 [回帰分析を極める(3/4)：質的回帰] https://blog.since2020.jp/data_analysis/qualitative_regression/
 
 [回帰分析を極める(4/4)：回帰分析その他] https://blog.since2020.jp/data_analysis/regression_analysis_etc/
-
-[MAツールを用いた効果検証] https://blog.since2020.jp/marketing/ma/
 
 [確率過程の基礎] https://blog.since2020.jp/data_analysis/stochastic_process/
